@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'Highlights Football',
-    description: "The App is called Highlights Football and it is a simple video app that allows see and search the latest football highlights.",
-      image: '/images/highlightsApp.jpg',
-      tags: ['React', 'JavaScript', 'Bootstrap', 'Sass'],
-    source: 'https://highlightsfootball.netlify.app/',
-    visit: 'https://github.com/hernanr9317/highlights-app',
+    title: 'MERN Calendar',
+    description:"Calendar made with stack MERN",
+    image: '/images/calendar.jpg',
+    tags: ['MongoDB', 'Express', 'React', 'Node'],
+    source: 'https://mern-calendar-hr.herokuapp.com/',
+    visit: 'https://github.com/hernanr9317/calendar-backend',
     id: 0,
   },
   {
@@ -16,7 +16,16 @@ export const projects = [
     source: 'https://heroteamap.netlify.app/',
     visit: 'https://github.com/hernanr9317/challenge-app',
     id: 1,
-  }
+  },
+  {
+    title: 'Highlights Football',
+    description: "The App is called Highlights Football and it is a simple video app that allows see and search the latest football highlights.",
+      image: '/images/highlightsApp.jpg',
+      tags: ['React', 'JavaScript', 'Bootstrap', 'Sass'],
+    source: 'https://highlightsfootball.netlify.app/',
+    visit: 'https://github.com/hernanr9317/highlights-app',
+    id: 2,
+  },
 ];
 
 export const TimeLineData = [
